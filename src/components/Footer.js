@@ -19,9 +19,9 @@ function Footer() {
         Made with ❤️ by{" "}
         <a href="https://www.instagram.com/be.like.ab/">Arpit Babbar</a>
         <div style={{ fontStyle: "italic" }}>
-          <a style={{"color":"red"}} href="https://github.com/arpitbabbar">Github</a>{" "}
-          <a style={{"color":"red"}} href="https://twitter.com/ArpitBabbar">Twitter</a>{" "}
-          <a style={{"color":"red"}} href="https://www.linkedin.com/in/arpitbabbar/">Linkedin</a>
+          <a style={{"color":"red"}} href="https://github.com/arpitbabbar" target="_blank" rel="noopener noreferrer">Github</a>{" "}
+          <a style={{"color":"red"}} href="https://twitter.com/ArpitBabbar" target="_blank" rel="noopener noreferrer">Twitter</a>{" "}
+          <a style={{"color":"red"}} href="https://www.linkedin.com/in/arpitbabbar/" target="_blank" rel="noopener noreferrer">Linkedin</a>
         </div>
       </div>
     </>
