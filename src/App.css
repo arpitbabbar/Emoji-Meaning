@@ -15,4 +15,5 @@ input::placeholder {
 h1 {
   text-decoration: underline;
   font-style: italic;
+  padding: 1px;
 }
