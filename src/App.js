@@ -29,6 +29,8 @@ function App() {
     if(mean===undefined){
       setemoji("Sorry! We don't know the meaning of this emoji!");
     }
+    if(event.target.value==='')
+    setemoji('');
     else{
     let res = mean.replace(/_/gi," ");
     setemoji(res);
