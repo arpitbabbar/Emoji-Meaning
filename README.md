@@ -3,10 +3,12 @@
 </h1>
 
 <div align="center">
+
 ![Badge](https://img.shields.io/badge/TechStack-ReactJS-red)
+
 </div>
 
-<h2>
+<h2 align="center">
     Live :- https://emoji-meaning.herokuapp.com/
 </h2>
 
