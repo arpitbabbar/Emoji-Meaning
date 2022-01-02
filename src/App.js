@@ -13,9 +13,9 @@ const emojiDict = {
   "💪" : "muscle",
   "💻" : "computer",
   "💼" : "briefcase",
-  "📔" : "notebook_with_decorative_cover",
-  "📕" : "closed_book",
-  "😍" : "heart_eyes",
+  "📔" : "notebook with decorative cover",
+  "📕" : "closed book",
+  "😍" : "heart eyes",
 }
 
 var knownemoji = Object.keys(emojiDict);
