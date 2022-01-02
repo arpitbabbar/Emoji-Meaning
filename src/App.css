@@ -4,6 +4,18 @@
 
 input {
   width: 80%;
-  padding: 5px;
-  font-size: 20px;
+  padding: 0.1em;
+  font-size: 2.5em;
 }
+
+input ::placeholder {
+  font-size: 2em;
+}
+
+ h2 {
+   font-size: 2em;
+ }
+
+ h3 {
+   font-size: 2em;
+ }
