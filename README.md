@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Badge](https://img.shields.io/badge/TechStack-ReactJS-red)
+![Badge](https://img.shields.io/badge/TechStack-ReactJS-red) ![Badge](https://img.shields.io/badge/npm-node--emoji-lightgrey)
 
 </div>
 
