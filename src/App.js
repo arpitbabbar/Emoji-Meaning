@@ -30,9 +30,11 @@ function App() {
       setemoji("Sorry! We don't know the meaning of this emoji!");
     }
     else{
-    setemoji(mean);
+    let res = mean.replace(/_/gi," ");
+    setemoji(res);
+    // console.log(res);
     }
-    console.log(mean);
+    // console.log(mean);
   }
 
   const handleClick = (emo) => {
