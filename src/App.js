@@ -1,5 +1,6 @@
 import React,{useState} from 'react';
 import './App.css';
+import Footer from './components/Footer';
 var emoji = require('node-emoji');
 
 const emojiDict = {
@@ -50,7 +51,7 @@ function App() {
     knownemoji.map(function(ele){
       return <span style={{"padding":"1rem", "fontSize":"2rem", "cursor":"pointer"}} onClick={()=>handleClick(ele)} key={ele}>{ele}</span>
     })}
-
+    <Footer />
     </div>
   );
 }
